@@ -5,5 +5,5 @@ This application can be used on any operating system capable of running Python 3
 
 To compile, you will need the following:
 1. Install Python 3.11 - https://www.python.org/downloads/
-2. Install the requests framework - pip install requests from the command line
+2. Install the requests framework - run the comnmand "pip install requests" from the command line
 3. Run the SEPTA-CLI.py application
